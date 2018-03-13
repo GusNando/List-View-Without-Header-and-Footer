@@ -9,8 +9,6 @@ import {
   View
 } from 'react-native';
 // import HitungVolumeBalok from './src/HitungVolumeBalok';
-import Header from './src/Header';
-import Footer from './src/Footer';
 import Sales from './src/Sales';
 
 export default class App extends React.Component {
