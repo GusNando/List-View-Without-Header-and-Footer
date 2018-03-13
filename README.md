@@ -1,6 +1,6 @@
 # Screenshot
 <p align="center">
-  <img src="screenshot/screenshot.png"/>
+  <img src="https://github.com/GusNando/List-View-Without-Header-and-Footer/blob/master/screenshot/screeenshot.png"/>
 </p>
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
